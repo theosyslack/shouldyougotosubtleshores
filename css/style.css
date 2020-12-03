@@ -2,7 +2,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  color: #177b96;
+  /* color: #177b96; */
 }
 
 a {
@@ -28,7 +28,7 @@ section.primary {
   align-items: center;
   justify-content: center;
 
-  background-color: #ffeb57;
+  /* background-color: #ffeb57; */
 }
 
 section.ranking {
@@ -36,7 +36,7 @@ section.ranking {
   align-items: center;
   justify-content: center;
 
-  background-color: #ffeb57;
+  /* background-color: #ffeb57; */
 }
 
 .ranking-table {
